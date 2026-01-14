@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rahul",
+    "rating": " Five ",
+    "feedback": "Loved the product!!!",
+    "age": "22"
+  },
+  {
+    "name": "Anita",
+    "rating": "3",
+    "feedback": "okayish experience",
+    "age": "25"
+  },
+  {
+    "name": "Rahul",
+    "rating": 5,
+    "feedback": "Amazing again",
+    "age": "22"
+  },
+  {
+    "name": "Suresh",
+    "rating": "two",
+    "feedback": "BAD QUALITY",
+    "age": null
+  },
+  {
+    "name": "Meena",
+    "rating": "4.5",
+    "feedback": "Pretty good!",
+    "age": "20"
+  }
+]
